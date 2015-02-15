@@ -86,6 +86,7 @@ table {
   float: left;
   width: 357px;
   margin-right: 46px;
+  background-color: rgba(255, 255, 255, 150);
 }
 
 section {
@@ -93,4 +94,5 @@ section {
   float: left;
   width: 357px;
   margin-right: 46px;
+  background-color: rgba(255, 255, 255, 150);
 }
